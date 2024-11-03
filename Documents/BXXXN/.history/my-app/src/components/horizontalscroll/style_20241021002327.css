@@ -1,0 +1,9 @@
+/* Optional CSS to add more styles */
+.scroll-container {
+  scroll-behavior: smooth;
+}
+
+.scroll-item:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
